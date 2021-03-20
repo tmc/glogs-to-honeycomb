@@ -8,6 +8,10 @@
 glogs-to-honeycomb is a [Go](https://golang.org/) program that delivers Istio sidecar logs to
 Honeycomb.
 
+| Diagram                                                     | Example Results                                             |
+|-------------------------------------------------------------|-------------------------------------------------------------|
+| ![glogs-to-honeycomb diagram](./docs/glogs-to-honeycomb.png) | ![honeycomb screenshot](./docs/honeycomb-screenshot.png) |
+
 ## Installation
 
 Presming  you have a working Go insallation, you can install `glogs-to-honeycomb` via:
